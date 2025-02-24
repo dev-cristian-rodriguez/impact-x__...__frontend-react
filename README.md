@@ -1,4 +1,4 @@
-# Blogify 📝
+# Blogify - Client 📝
 
 Blogify is a modern blogging platform that allows users to create, manage, and interact with blog content.
 
